@@ -14,13 +14,18 @@ h1 {
 }
 
 h2 {
-  font-family: serif;
   font-size: 50px;
   color: #72bcd4;
 }
 
-p {
+pre {
   font-size: 20px;
+  border: 2px solid white;
+  margin: 70px;
+}
+
+pre.big {
+  line-height: 2;
 }
 
 ul{
