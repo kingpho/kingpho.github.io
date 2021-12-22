@@ -5,17 +5,17 @@
 
 body {
   background-color: #04284e;
-
+  background-image:url("https://i.gifer.com/WG8P.gif");
 }
 
 h1 {
   font-weight: bold;
-  font-size: 40px;
+  font-size: 80px;
 }
 
 h2 {
   font-family: serif;
-  font-size: 30px;
+  font-size: 50px;
   color: #72bcd4;
 }
 
