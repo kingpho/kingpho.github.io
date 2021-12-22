@@ -1,0 +1,32 @@
+* {
+  color: white;
+  font-family: monospace;
+}
+
+body {
+  background-color: #04284e;
+
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: serif;
+  font-size: 30px;
+  color: #72bcd4;
+}
+
+p {
+  font-size: 20px;
+}
+
+ul{
+  font-size: 20px;
+}
+
+strong {
+  color: #FFD700;
+}
